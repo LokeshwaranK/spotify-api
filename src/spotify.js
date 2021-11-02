@@ -3,7 +3,7 @@
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 
 
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "https://agitated-nobel-bff0b2.netlify.app";
 
 const clientId = "4ec041b64f5044a28aa1e0b212a75519";
 
